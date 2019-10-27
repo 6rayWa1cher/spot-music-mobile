@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125165318028",
+    "firebase_url": "https://cafego-243021.firebaseio.com",
+    "project_id": "cafego-243021",
+    "storage_bucket": "cafego-243021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125165318028:android:750e583658f26595",
+        "android_client_info": {
+          "package_name": "city.ge_eat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125165318028-b9b9a5fp8ge9qb0efs5b3covpu8r3s9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "city.ge_eat",
+            "certificate_hash": "0c6ab70d6d779e793407464a62a67237cf67f3a9"
+          }
+        },
+        {
+          "client_id": "125165318028-a959umqsof0v7j47lu0t5pv3eq9adcdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCniBjY5MB9uSjF6tk6-IkqAeTId--lYLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125165318028-a959umqsof0v7j47lu0t5pv3eq9adcdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
